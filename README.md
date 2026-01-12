@@ -1,6 +1,6 @@
 # Catálogo de Filmes 
 
-SPA **FullStack** para busca e exploração de filmes, integrando **React + Node.js** e consumo da API pública **OMDb**.
+SPA **FullStack** para busca e explorar filmes, integrando **React + Node.js** e consumo da API pública **OMDb**.
 
 Projeto desenvolvido com foco em **integração frontend/backend**, organização de código e experiência do usuário.
 
@@ -58,34 +58,6 @@ O sistema orienta o usuário quando a busca não retorna resultados.
 - API OMDb
 
 ---
-
-##  Estrutura do Projeto
-
-catalogo-filmes-inteligente/
-├── backend/
-│   ├── controllers/
-│   ├── database/
-│   ├── routes/
-│   ├── services/
-│   ├── tests/
-│   ├── app.js
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-└── README.md
-
 
 ##  Como rodar o projeto
 
