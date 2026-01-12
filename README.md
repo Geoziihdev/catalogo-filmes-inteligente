@@ -1,4 +1,4 @@
-# 🎬 Catálogo de Filmes 
+# Catálogo de Filmes 
 
 SPA **FullStack** para busca e exploração de filmes, integrando **React + Node.js** e consumo da API pública **OMDb**.
 
@@ -6,7 +6,7 @@ Projeto desenvolvido com foco em **integração frontend/backend**, organizaçã
 
 ---
 
-## 🖼️ Demonstração
+##  Demonstração
 
 ### Resultado da busca
 <img width="1884" height="906" alt="Captura de tela 2025-12-20 154950" src="https://github.com/user-attachments/assets/599ae438-f05f-424b-97f4-6214a40a4eb9" />
@@ -16,30 +16,30 @@ Projeto desenvolvido com foco em **integração frontend/backend**, organizaçã
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
-- 🔎 Busca de filmes por título
-- 🎞️ Exibição em cards
-- 🌐 Integração frontend ↔ backend
-- 💡 Mensagem orientativa quando o filme não é encontrado
-- 🧠 Tratamento de respostas da API
-- 🧩 Componentização no React
+-  Busca de filmes por título
+-  Exibição em cards
+-  Integração frontend ↔ backend
+-  Mensagem orientativa quando o filme não é encontrado
+-  Tratamento de respostas da API
+-  Componentização no React
 
 ---
 
-## ⚠️ Observação sobre a API OMDb
+##  Observação sobre a API OMDb
 
 A API realiza buscas prioritariamente pelo **título original do filme**.
 
 **Exemplo:**
-- ❌ Velozes e Furiosos  
-- ✅ Fast and Furious  
+-  Velozes e Furiosos  
+-  Fast and Furious  
 
 O sistema orienta o usuário quando a busca não retorna resultados.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 ### Frontend
 - React
@@ -59,7 +59,7 @@ O sistema orienta o usuário quando a busca não retorna resultados.
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 catalogo-filmes-inteligente/
 ├── backend/
@@ -87,7 +87,7 @@ catalogo-filmes-inteligente/
 └── README.md
 
 
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 ### Backend
 ```bash
@@ -120,7 +120,7 @@ http://localhost:5173
 
 ---
 
-## 🎯 O que foi praticado neste projeto
+##  O que foi praticado neste projeto
 
 - Integração FullStack
 
@@ -134,13 +134,13 @@ http://localhost:5173
 
 - Componentização no React
 
-## 👩‍💻 Autora
+##  Autora
 
 Geovana Santos
 Desenvolvedora FullStack em formação
 
-## 🔗 LinkedIn:
+##  LinkedIn:
 https://www.linkedin.com/in/geovana-santos-343437116
 
-## 💻 GitHub:
+##  GitHub:
 https://github.com/Geoziihdev
